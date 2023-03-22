@@ -1,7 +1,7 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_spinkit/flutter_spinkit.dart';
-import 'package:tech_blog_pro/colors.dart';
+import 'package:tech_blog_pro/components/colors.dart';
 import 'package:tech_blog_pro/gen/assets.gen.dart';
 import 'package:tech_blog_pro/views/main_screen.dart';
 

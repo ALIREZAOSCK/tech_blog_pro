@@ -3,9 +3,9 @@
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
-import 'package:tech_blog_pro/colors.dart';
+import 'package:tech_blog_pro/components/colors.dart';
 import 'package:tech_blog_pro/gen/assets.gen.dart';
-import 'package:tech_blog_pro/strings.dart';
+import 'package:tech_blog_pro/components/strings.dart';
 import 'package:tech_blog_pro/views/my_cats.dart';
 
 class Register_Intro extends StatelessWidget {

@@ -4,8 +4,8 @@ import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
 
 import 'colors.dart';
-import 'gen/assets.gen.dart';
-import 'models/fake_data.dart';
+import '../gen/assets.gen.dart';
+import '../models/fake_data.dart';
 
 class techdivider extends StatelessWidget {
   const techdivider({

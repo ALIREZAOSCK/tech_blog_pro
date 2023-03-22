@@ -4,12 +4,12 @@
 
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:tech_blog_pro/colors.dart';
+import 'package:tech_blog_pro/components/colors.dart';
 import 'package:tech_blog_pro/gen/assets.gen.dart';
 import 'package:tech_blog_pro/models/fake_data.dart';
-import 'package:tech_blog_pro/strings.dart';
+import 'package:tech_blog_pro/components/strings.dart';
 
-import '../my_component.dart';
+import '../components/my_component.dart';
 
 class homeScreen extends StatelessWidget {
   const homeScreen({
